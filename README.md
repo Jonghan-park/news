@@ -11,8 +11,8 @@ Used : React.js, CSS
 IDE : Visual Studio Code
 
 # Sample screenshots
-![image](https://user-images.githubusercontent.com/90344204/159200553-c4c466cb-d0c0-4d58-a610-180ce2bba262.png)
+![image](https://user-images.githubusercontent.com/90344204/159201010-7f33cc85-2484-4a21-9f44-99d7f0e95bc3.png)
 
 # Read More and Show less feature
-![image](https://user-images.githubusercontent.com/90344204/159200568-31043ea8-8018-4c1d-8365-b825312abbaa.png)
-![image](https://user-images.githubusercontent.com/90344204/159200572-59b373b3-3830-4ef0-a573-80261aab54b0.png)
+![image](https://user-images.githubusercontent.com/90344204/159201027-5e629d86-10d5-445d-9444-da9b2f160970.png)
+![image](https://user-images.githubusercontent.com/90344204/159201041-aa9dff46-dcc1-4531-bc79-9e33ba0e4c79.png)
