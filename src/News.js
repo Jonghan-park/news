@@ -15,7 +15,7 @@ const News = ({id, author, title, description, url, urlToImage, removeNews }) =>
                 {readMore ? 'show less' : 'Read more'}
                 </button>
             </p>
-            <button className='delete-btn' onClick={() => removeNews(id)}>not interested</button>
+            
         </footer>
     </article>);
 };

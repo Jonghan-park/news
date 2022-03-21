@@ -9,11 +9,6 @@ function App() {
   const [loading, setLoading] = useState(true);
   const [newsS, setNewsS] = useState([]);
 
-  const removeNews = (id) => {
-    const newNewsS = newsS.filter((news) => news.source.id !== id);
-    setNewsS(newNewsS);
-  }
-
   const fetchNewsS = async() => {
     setLoading(true);
     
@@ -51,7 +46,7 @@ function App() {
   }
   return <main>
     
-      <NewsS newsS={newsS} removeNews={removeNews} />
+      <NewsS newsS={newsS} />
     </main>
 }
 

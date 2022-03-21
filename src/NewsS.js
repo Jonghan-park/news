@@ -7,7 +7,7 @@ const NewsS = ({newsS, removeNews}) => {
       <div className='underline'></div>
       <div>
         {newsS.articles.map((news) => {
-          return <News key={news.source.id} {...news} removeNews={removeNews}></News>
+          return <News key={news.source.title} {...news} ></News>
         })}
         
       </div>
